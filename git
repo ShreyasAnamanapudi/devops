@@ -1,0 +1,15 @@
+Git Commanands
+==============
+
+git clone <url>   
+cd repository
+git status
+touch shreyas
+git status
+vi shreyas # write the content in the file
+git add . (or) git add shreyas
+git commit -m "commiting first time"
+git status # nothing to commit work tree is clean
+git push 
+
+# Once push done sucessfully, check on the github repo to see the changes
